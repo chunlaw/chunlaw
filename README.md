@@ -1,4 +1,8 @@
-### Hi there 👋
+[![GitHub followers](https://img.shields.io/github/followers/chunlaw?style=social)](https://github.com/soruly)
+
+![Metrics](https://metrics.lecoq.io/chunlaw?template=classic&isocalendar=1&isocalendar.duration=full-year)
+
+![Chunlaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunlaw&show_icons=true&include_all_commits=true&count_private=true&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunlaw&layout=compact&langs_count=12)
 
 <!--
 **chunlaw/chunlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
